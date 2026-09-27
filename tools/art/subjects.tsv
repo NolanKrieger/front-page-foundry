@@ -1,0 +1,134 @@
+kind	id	tiles	subject
+building	logging_camp	2	a small timber logging camp: a low log shed with a sawbuck, a stack of felled trunks beside it and a two-man crosscut saw leaning on the wall
+building	pump_jack	2	an oil pump jack: a walking-beam nodding donkey on a timber A-frame over a wellhead, with a small engine house and a tank beside it
+building	water_pump	1	a small riverside water pump house: a squat brick hut with a tall intake pipe, a flywheel on one side and a valve wheel
+building	receiving_dock	2	a goods receiving dock: a covered loading platform with a wide open front, crates and barrels stacked under the awning and a small office at one end
+building	exposition_yard	3	an exposition yard: a grand fairground entrance arch with pennants over a fenced yard, a bandstand pavilion and rows of crates ready for exhibition
+building	coke_oven	2	a beehive coke oven battery: a row of low domed brick ovens with arched mouths and a tall brick chimney at one end
+building	open_hearth_furnace	3	an open hearth steel furnace: a long low brick furnace with a charging door, a tilting ladle on a crane and two tall stacks
+building	reduction_works	3	an aluminium reduction works: a wide flat-roofed hall lined with rows of electrolytic pots, heavy bus bars along the walls and a small transformer yard
+building	glassworks	2	a glassworks: a domed glass furnace with a cone chimney, a workshop wing with a wide door and racks of finished panes
+building	kiln	2	a pottery kiln: a bottle-shaped brick kiln with a narrow neck, a small stoking door and a low drying shed beside it
+building	cement_works	2	a cement works: a long inclined rotary kiln on rollers feeding a squat silo, with a small crusher house and a chute
+building	sawmill	2	a steam sawmill: a long open-sided shed with a circular saw blade visible, a log carriage, a pile of sawn boards and a sawdust burner
+building	refinery	3	an oil refinery: a cluster of tall fractionating columns and round storage tanks joined by pipes, with a small pump house and a flare stack
+building	vulcanizer	2	a rubber vulcanizing works: a squat boiler-shaped autoclave with a heavy round door, a small steam engine and stacked rubber sheets
+building	textile_mill	2	a small textile mill: a two-storey brick mill with tall arched windows in a row, a sawtooth roof and a bale of cotton at the door
+building	chemical_works	2	a chemical works: a brick shed with a cluster of retorts, a condenser coil, drums and a short stack venting vapour
+building	press	2	a hydraulic stamping press: a heavy cast-iron frame press with a big flywheel, a die bed and a stack of sheet metal beside it
+building	rolling_mill	3	a steel rolling mill: a long open mill with a train of rolling stands, a red-hot beam passing through and a tall engine house
+building	drawing_mill	2	a wire drawing mill: a low shed with a row of drawing blocks, coils of wire on reels and a small engine
+building	tube_mill	2	a tube mill: a long shed with a mandrel bench, a stack of steel tubes on racks and a furnace at one end
+building	lathe	1	a heavy engine lathe: a long-bed lathe with a headstock, a chuck, a tailstock and a belt drive from an overhead shaft
+building	coiler	1	a spring coiling machine: a squat bench machine with a mandrel, a wire reel feeding it and a bin of coil springs
+building	precision_shop	2	a precision instrument shop: a neat brick workshop with big skylights, benches of small machine tools and a clock over the door
+building	foundry	2	an iron foundry: a cupola furnace with a tall stack beside a casting shed, a ladle on a crane and sand moulds on the floor
+building	boring_mill	2	a horizontal boring mill: a massive cast-iron machine with a long boring bar, a rotary table and an engine block clamped to it
+building	drop_forge	2	a drop forge: a tall steam drop hammer on a heavy anvil block with a furnace beside it and forged parts in a bin
+building	joinery	2	a joinery shop: a timber workshop with a big bench, a band saw, a glue pot and stacks of plywood and finished wooden ribs
+building	doping_shed	2	an aircraft doping shed: a long low shed with wide sliding doors, fabric-covered wing frames on trestles and drums of dope
+building	wire_coater	1	a wire insulating machine: a bench machine drawing wire through a rubber bath with a take-up reel of coated wire
+building	rubber_works	2	a rubber goods works: a mill with a pair of big calender rolls, moulds for hoses and gaskets and racks of finished rubber parts
+building	tire_works	2	a tire works: a shed with tire building drums, round curing presses and a stack of finished pneumatic tires
+building	sheet_metal_shop	2	a sheet metal shop: a workshop with a big shear, a bending brake, rolls of sheet and finished panels leaning on the wall
+building	electrical_shop	2	an electrical shop: a workshop with a winding machine, coils, a test bench with dials and a transformer on the wall, wires entering on a pole
+building	wheelwright	1	a wheelwright's shop: a small shed with a wheel on a jig, spokes in a rack and a tire bending machine
+building	upholstery	1	an upholstery shop: a small workshop with a sewing machine, bolts of cloth, springs in a bin and a finished padded seat
+building	frame_shop	3	a frame shop: a wide riveting shop with a jig holding a long chassis frame, a gantry crane and stacked steel beams and tubes
+building	drivetrain_shop	2	a drivetrain shop: a workshop with a gearbox on a bench, gears and bearings in bins and an axle on stands
+building	engine_works	3	an engine works: a tall assembly hall with a row of engine blocks on stands, an overhead crane and a test cell with an exhaust stack
+building	chassis_shop	3	a chassis shop: a long assembly hall where wheels, axles and gearboxes are fitted to frames on a track, with a wide door
+building	body_shop	3	a car body shop: a wide hall with car bodies on jigs, a paint booth with a ventilator and windscreens in racks
+building	airframe_works	3	an airframe works: a tall hangar-like hall with wing frames on trestles, a fuselage skeleton and a gantry crane
+building	final_assembly_line	3	a final assembly line: a long low factory with a moving track down the middle, finished motorcars rolling out of a wide door and a water tower
+building	aircraft_hangar	3	an aircraft hangar: a big arched-roof hangar with wide sliding doors open, an aeroplane inside and a windsock on a mast
+building	boiler	2	a stationary steam boiler: a horizontal riveted boiler shell in a brick setting with a firebox door, a steam dome, a safety valve and a short stack
+building	power_station	3	a small electric power station: a brick engine hall with tall windows, a steam engine driving a dynamo, a switch panel and two stacks
+building	truck_depot	2	a motor truck depot: an open-fronted garage with a truck bay, a fuel pump, a loading platform and a small dispatch office
+building	rail_station	3	a railway goods station: a long platform with a canopy, a station building with a clock and a freight shed, rails along the front
+building	barge_landing	2	a river barge landing: a timber wharf with pilings, a hand crane, bollards and stacked cargo beside a small shed
+good	copper_ore	-	a lump of copper ore, a rough rock with a few flat crystal faces
+good	limestone	-	a block of limestone, a rough squared stone with layered edges
+good	sand	-	a small heap of sand, a soft mound with a few grains flying off
+good	clay	-	a lump of wet clay, a rounded blob with thumb marks
+good	sulfur	-	a lump of sulfur, a knobbly crystalline rock
+good	bauxite	-	a lump of bauxite ore, a pebbly rounded rock
+good	timber	-	a felled log with bark and cut ends
+good	crude_oil	-	a wooden barrel of crude oil with a bung and a drip
+good	raw_rubber	-	a bale of raw rubber sheets tied with cord
+good	cotton	-	a bale of cotton with tufts bursting from the wrapping
+good	copper_ingot	-	a copper ingot bar with sloped sides
+good	coke	-	a lump of coke, a porous cinder-like rock
+good	steel_ingot	-	a steel ingot, a tapered block with a stamped mark
+good	aluminum_ingot	-	an aluminium ingot, a smooth bright bar with a pig mark
+good	glass	-	a small pane of glass, a square sheet with a corner highlight
+good	lumber	-	a bundle of sawn planks strapped together
+good	porcelain	-	a porcelain insulator, a ribbed white bell shape
+good	cement	-	a paper sack of cement, a fat sack with a sewn top
+good	rubber	-	a rolled sheet of vulcanized rubber
+good	cloth	-	a bolt of cloth, a rolled fabric with a folded edge
+good	gasoline	-	a square gasoline can with a spout and handle
+good	lubricant	-	an oil can with a long spout and a thumb pump
+good	tar	-	a barrel of tar with a sticky drip down the side
+good	iron_plate	-	a flat iron plate, a rectangular sheet with rivet holes
+good	copper_sheet	-	a thin copper sheet with a curled corner
+good	aluminum_sheet	-	a bright aluminium sheet with a bent edge
+good	steel_beam	-	a steel I-beam, a short length seen end-on showing the I profile
+good	steel_rod	-	a bundle of steel rods tied at the middle
+good	steel_wire	-	a coil of steel wire wound on a reel
+good	copper_wire	-	a coil of bare copper wire on a spool
+good	steel_tube	-	a steel tube, a short pipe seen at an angle showing the bore
+good	aluminum_tube	-	a thin-walled aluminium tube seen at an angle
+good	bolts	-	a hex bolt with a nut beside it
+good	rivets	-	three round-head rivets in a little heap
+good	springs	-	a coil spring, a helical compression spring
+good	bearings	-	a ball bearing race with visible balls
+good	iron_casting	-	a rough iron casting with a sprue stub and sand texture
+good	aluminum_casting	-	a smooth aluminium casting with ribs
+good	varnish	-	a tin of varnish with a brush resting on it
+good	japan_enamel	-	a small can of japan enamel with a drip of black gloss
+good	plywood	-	a sheet of plywood with visible ply layers on the edge
+good	doped_fabric	-	a stretched doped fabric panel on a wooden frame
+good	plate_glass	-	a large sheet of plate glass standing upright on two wooden blocks, its edge and a corner gleam showing it is glass, no people
+good	insulated_wire	-	a coil of insulated wire with a stripped end
+good	rubber_hose	-	a coiled rubber hose with brass ends
+good	gasket	-	a flat gasket ring with bolt holes
+good	tire	-	a pneumatic tire with tread
+good	engine_block	-	a cast engine block with four cylinder bores
+good	crankcase	-	a radial engine crankcase, a round finned casting with mounting studs
+good	piston	-	a piston with rings and a wrist pin
+good	crankshaft	-	a crankshaft with throws and counterweights
+good	axle	-	an axle shaft with a splined end
+good	spark_plug	-	a spark plug with a porcelain insulator and hex body
+good	magneto	-	a magneto, a small horseshoe-magnet generator with terminals
+good	headlamp	-	a round brass headlamp with a lens
+good	wiring_harness	-	a wiring harness, a bundle of wires with branching ends and terminals
+good	carburetor	-	a carburetor with a float bowl and throttle lever
+good	gauge	-	a round dial gauge with a needle and bezel
+good	steering_gear	-	a steering wheel on a column with a gearbox
+good	radiator	-	a honeycomb radiator with a filler cap
+good	body_panel	-	a curved stamped car body panel
+good	transmission	-	a gearbox with a shift lever
+good	wheel	-	a wooden-spoked artillery wheel with a tire
+good	seat	-	a padded leather bench seat
+good	chassis_frame	-	a ladder chassis frame with cross members
+good	fuselage_frame	-	an aeroplane fuselage frame of welded tubes
+good	wing_spar	-	a long tapered wing spar
+good	undercarriage	-	an aeroplane undercarriage, two wheels on struts with an axle
+good	wing_rib	-	a wooden wing rib with lightening holes
+good	propeller	-	a two-blade wooden propeller with a hub
+good	instrument_panel	-	a cockpit instrument panel with several dials
+good	car_engine	-	a four-cylinder car engine with a fan and manifold
+good	radial_aero_engine	-	a radial aero engine with nine finned cylinders around a hub
+good	rolling_chassis	-	a rolling chassis, a bare frame on four wheels with engine mounts
+good	car_body	-	a car body shell with doors and windscreen, no wheels
+good	wing	-	a fabric-covered biplane wing panel with ribs showing
+good	fuselage	-	a covered aeroplane fuselage with a cockpit opening
+good	tail_assembly	-	an aeroplane tail with fin, rudder and tailplane
+good	automobile	-	a 1920s touring motorcar seen from the side
+good	motor_truck	-	a 1920s flatbed motor truck seen from the side
+good	aeroplane	-	a 1920s biplane seen from the front quarter
+good	aluminum_girder	-	an aluminium lattice girder section
+good	gas_cell	-	an airship gas cell, a lozenge-shaped fabric bag with a valve
+good	gondola	-	an airship gondola, a streamlined cabin with windows
+good	stressed_skin_panel	-	a riveted stressed-skin metal panel, curved with rows of rivets

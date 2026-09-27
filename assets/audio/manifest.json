@@ -1,0 +1,94 @@
+{
+  "music": [
+    {
+      "name": "rag_courier",
+      "seconds": 185.7,
+      "bpm": 96,
+      "notes": 0
+    },
+    {
+      "name": "rag_carvell",
+      "seconds": 202.29,
+      "bpm": 88,
+      "notes": 0
+    },
+    {
+      "name": "rag_foundry",
+      "seconds": 171.66,
+      "bpm": 104,
+      "notes": 0
+    }
+  ],
+  "sfx": [
+    {
+      "name": "press",
+      "loop": false,
+      "seconds": 0.7
+    },
+    {
+      "name": "telegraph",
+      "loop": false,
+      "seconds": 1.7
+    },
+    {
+      "name": "typewriter",
+      "loop": false,
+      "seconds": 0.14
+    },
+    {
+      "name": "bell",
+      "loop": false,
+      "seconds": 0.9
+    },
+    {
+      "name": "pencil",
+      "loop": false,
+      "seconds": 0.16
+    },
+    {
+      "name": "thud",
+      "loop": false,
+      "seconds": 0.25
+    },
+    {
+      "name": "rustle",
+      "loop": false,
+      "seconds": 0.45
+    },
+    {
+      "name": "belt",
+      "loop": true,
+      "seconds": 2.0
+    },
+    {
+      "name": "machine",
+      "loop": true,
+      "seconds": 2.0
+    },
+    {
+      "name": "steam",
+      "loop": true,
+      "seconds": 3.0
+    },
+    {
+      "name": "wheel",
+      "loop": true,
+      "seconds": 4.0
+    },
+    {
+      "name": "truck",
+      "loop": false,
+      "seconds": 1.6
+    },
+    {
+      "name": "whistle",
+      "loop": false,
+      "seconds": 1.4
+    },
+    {
+      "name": "horn",
+      "loop": false,
+      "seconds": 1.2
+    }
+  ]
+}

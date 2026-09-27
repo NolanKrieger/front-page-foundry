@@ -1,0 +1,16 @@
+.godot/
+bin/
+obj/
+*.user
+/android/
+
+# Local output, caches, and credentials
+/build/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+!.env.sample
+.godot/export_credentials.cfg
+/scratch/

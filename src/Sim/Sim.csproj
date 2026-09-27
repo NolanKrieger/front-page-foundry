@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Pure C# simulation: no Godot types, so it builds, tests and replays headless. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>FrontPageFoundry.Sim</RootNamespace>
+    <AssemblyName>FrontPageFoundry.Sim</AssemblyName>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <InternalsVisibleTo Include="Sim.Tests" />
+    <InternalsVisibleTo Include="FrontPageFoundry" />
+  </ItemGroup>
+</Project>

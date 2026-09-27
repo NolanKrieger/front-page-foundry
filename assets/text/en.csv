@@ -1,0 +1,662 @@
+key,en
+MASTHEAD,The Carvell Falls Courier
+EAR_LEFT,VOL. I · No. 1\nSUNRISE EDITION
+EAR_RIGHT,PRICE TWO CENTS\nFRONT PAGE FOUNDRY
+DATELINE,"CARVELL FALLS, {0}"
+CASH,CASH ON HAND  {0}
+MARKET_LINE,{0} {1} THE TON
+MARKET_GLUT,"  (glut, off {0})"
+HINT,"Tab opens the Courier · Shift+Tab turns the column · 1–9 pick an advertisement · R turns · click builds · drag lays belt, pipe, road or rail · P plans · B blueprints · F flow · Q copies · right-click removes · Ctrl+Z undoes · WASD looks about · wheel zooms · Esc: the front office"
+ADS_HEADING,—  CLASSIFIED ADVERTISEMENTS  —
+AD_KEY,apply at key {0}
+PRICE_EACH,{0} each
+PRICE_YARD,{0} the yard
+PRICE_PAIR,{0} the pair
+AD_belt_canvas_TITLE,CANVAS BELTING
+AD_belt_canvas_BODY,Two goods a second. Drag to lay a run.
+AD_belt_rubber_TITLE,RUBBER BELTING
+AD_belt_rubber_BODY,Four goods a second and wears like iron.
+AD_belt_steel_TITLE,STEEL SLAT BELT
+AD_belt_steel_BODY,"Eight goods a second, the fastest made."
+AD_splitter_TITLE,SPLITTER
+AD_splitter_BODY,"Two in, two out, shared even-handed."
+AD_sorting_splitter_TITLE,SORTING SPLITTER
+AD_sorting_splitter_BODY,One good goes left; the rest go right. Pick the good with Q.
+AD_trestle_TITLE,TRESTLE BRIDGE
+AD_trestle_BODY,Carries a belt over four yards. Click both ends.
+AD_mine_head_TITLE,MINE HEADS
+AD_mine_head_BODY,"Sunk on any ore seam. More seams, more ore."
+AD_freight_depot_TITLE,FREIGHT DEPOT
+AD_freight_depot_BODY,Buys all goods delivered at the day's price.
+NAME_belt_canvas,Canvas Belt
+NAME_belt_rubber,Rubber Belt
+NAME_belt_steel,Steel Slat Belt
+NAME_splitter,Splitter
+NAME_sorting_splitter,Sorting Splitter
+NAME_trestle,Trestle Bridge
+NAME_mine_head,Mine Head
+NAME_freight_depot,Freight Depot
+ITEM_iron_ore,Iron Ore
+ITEM_copper_ore,Copper Ore
+ITEM_coal,Coal
+CURSOR_NO_ORE,No ore seam here
+CURSOR_BLOCKED,Ground already built on
+CURSOR_BAD_SPAN,A trestle spans one to four yards
+CURSOR_CANNOT_AFFORD,Cannot afford {0}
+CURSOR_BRIDGE_END,Click the far end
+CURSOR_FILTER,Click a sorting splitter to sort {0} left
+CLIP_BELT,"{0}. Carrying {1} goods on this yard{2}. {3}"
+CLIP_BELT_CURVE,", round a corner"
+CLIP_BELT_JAMMED,Backed up.
+CLIP_BELT_MOVING,Running.
+CLIP_BRIDGE,TRESTLE BRIDGE. Carries the line {0} yards over whatever lies beneath.
+CLIP_SPLITTER,SPLITTER. Takes from either side and deals out even-handed. {0} goods crossing.
+CLIP_SORTER,SORTING SPLITTER. Sends {0} left and everything else right. Pick a good with Q and click here to change it.
+CLIP_SORTER_NONE,nothing yet
+CLIP_DEPOT,FREIGHT DEPOT. {0} goods sold at the day's price. {1}
+COL_Transport,TRANSPORT
+COL_Extraction,EXTRACTION
+COL_MillsAndFurnaces,MILLS & FURNACES
+COL_Shops,SHOPS
+COL_Works,WORKS
+COL_Power,POWER
+COL_HINT,Shift+Tab turns the column
+AD_ELEC,Runs on electricity only.
+AD_FIREBOX,Coal-fired: {0} kW.
+NAME_logging_camp,Logging Camp
+AD_logging_camp_TITLE,LOGGING CAMP
+AD_logging_camp_BODY,Fells the wood within three chains. Timber by the cord.
+NAME_pump_jack,Pump Jack
+AD_pump_jack_TITLE,PUMP JACK
+AD_pump_jack_BODY,Nods over a seep and brings up crude by the barrel.
+NAME_water_pump,Water Pump
+AD_water_pump_TITLE,WATER PUMP
+AD_water_pump_BODY,Draws river water into a pipe for the boilers.
+NAME_receiving_dock,Receiving Dock
+AD_receiving_dock_TITLE,RECEIVING DOCK
+AD_receiving_dock_BODY,"Buys any raw good at the market rate, delivered to your belt."
+NAME_exposition_yard,Exposition Yard
+AD_exposition_yard_TITLE,EXPOSITION YARD
+AD_exposition_yard_BODY,Takes delivery for the great commissions. Headlines guaranteed.
+NAME_smelter,Smelter
+AD_smelter_TITLE,SMELTER
+AD_smelter_BODY,Iron or copper ore in; ingots out. Coal-fired.
+NAME_coke_oven,Coke Oven
+AD_coke_oven_TITLE,COKE OVEN
+AD_coke_oven_BODY,Bakes two coal into one coke for the furnaces.
+NAME_open_hearth_furnace,Open-Hearth Furnace
+AD_open_hearth_furnace_TITLE,OPEN-HEARTH FURNACE
+AD_open_hearth_furnace_BODY,"Iron, coke and limestone make steel. The foundation of everything."
+NAME_reduction_works,Reduction Works
+AD_reduction_works_TITLE,REDUCTION WORKS
+AD_reduction_works_BODY,Bauxite and coke become aluminum. Electric only.
+NAME_glassworks,Glassworks
+AD_glassworks_TITLE,GLASSWORKS
+AD_glassworks_BODY,Sand and limestone to glass; glass again to plate.
+NAME_kiln,Kiln
+AD_kiln_TITLE,KILN
+AD_kiln_BODY,Fires clay into porcelain for the spark plug trade.
+NAME_cement_works,Cement Works
+AD_cement_works_TITLE,CEMENT WORKS
+AD_cement_works_BODY,"Limestone and clay, burned and ground. Two bags a run."
+NAME_sawmill,Sawmill
+AD_sawmill_TITLE,SAWMILL
+AD_sawmill_BODY,"Timber into lumber, two boards a log."
+NAME_refinery,Refinery
+AD_refinery_TITLE,REFINERY
+AD_refinery_BODY,"Crude in; gasoline, lubricant and tar out of three spouts."
+NAME_vulcanizer,Vulcanizer
+AD_vulcanizer_TITLE,VULCANIZER
+AD_vulcanizer_BODY,"Raw rubber and sulfur, cooked hard. Two sheets a run."
+NAME_textile_mill,Textile Mill
+AD_textile_mill_TITLE,TEXTILE MILL
+AD_textile_mill_BODY,Spins and weaves cotton into cloth.
+NAME_chemical_works,Chemical Works
+AD_chemical_works_TITLE,CHEMICAL WORKS
+AD_chemical_works_BODY,Varnish from tar and gasoline; japan enamel from tar and varnish.
+NAME_press,Press
+AD_press_TITLE,PRESS
+AD_press_BODY,Flattens any ingot into plate or sheet.
+NAME_rolling_mill,Rolling Mill
+AD_rolling_mill_TITLE,ROLLING MILL
+AD_rolling_mill_BODY,"Three steel ingots, one beam."
+NAME_drawing_mill,Drawing Mill
+AD_drawing_mill_TITLE,DRAWING MILL
+AD_drawing_mill_BODY,"Draws ingots to rod, rod to wire, copper to wire."
+NAME_tube_mill,Tube Mill
+AD_tube_mill_TITLE,TUBE MILL
+AD_tube_mill_BODY,Rolls plate and sheet into seamless tube.
+NAME_lathe,Lathe
+AD_lathe_TITLE,LATHE
+AD_lathe_BODY,"Turns bolts from rod, rivets from wire, pistons from castings."
+NAME_coiler,Coiler
+AD_coiler_TITLE,COILER
+AD_coiler_BODY,Winds steel wire into springs.
+NAME_precision_shop,Precision Shop
+AD_precision_shop_TITLE,PRECISION SHOP
+AD_precision_shop_BODY,"Gears, bearings, carburetors, gauges and steering gear."
+NAME_foundry,Foundry
+AD_foundry_TITLE,FOUNDRY
+AD_foundry_BODY,Casts iron or aluminum in sand.
+NAME_boring_mill,Boring Mill
+AD_boring_mill_TITLE,BORING MILL
+AD_boring_mill_BODY,Bores castings into engine blocks and crankcases.
+NAME_drop_forge,Drop Forge
+AD_drop_forge_TITLE,DROP FORGE
+AD_drop_forge_BODY,Hammers steel into crankshafts and axles.
+NAME_joinery,Joinery
+AD_joinery_TITLE,JOINERY
+AD_joinery_BODY,"Plywood, wing ribs, propellers and instrument panels."
+NAME_doping_shed,Doping Shed
+AD_doping_shed_TITLE,DOPING SHED
+AD_doping_shed_BODY,Cloth stretched and varnished into doped fabric.
+NAME_wire_coater,Wire Coater
+AD_wire_coater_TITLE,WIRE COATER
+AD_wire_coater_BODY,Copper wire in a rubber jacket.
+NAME_rubber_works,Rubber Works
+AD_rubber_works_TITLE,RUBBER WORKS
+AD_rubber_works_BODY,"Hoses, gaskets and gas cells."
+NAME_tire_works,Tire Works
+AD_tire_works_TITLE,TIRE WORKS
+AD_tire_works_BODY,"Rubber, wire and cloth built into tires."
+NAME_sheet_metal_shop,Sheet Metal Shop
+AD_sheet_metal_shop_TITLE,SHEET METAL SHOP
+AD_sheet_metal_shop_BODY,"Radiators, body panels and stressed-skin panels."
+NAME_electrical_shop,Electrical Shop
+AD_electrical_shop_TITLE,ELECTRICAL SHOP
+AD_electrical_shop_BODY,"Spark plugs, magnetos, headlamps and harnesses. Electric only."
+NAME_wheelwright,Wheelwright
+AD_wheelwright_TITLE,WHEELWRIGHT
+AD_wheelwright_BODY,"A tire, two boards and four bolts make a wheel."
+NAME_upholstery,Upholstery
+AD_upholstery_TITLE,UPHOLSTERY
+AD_upholstery_BODY,"Cloth, springs and lumber, stitched into seats."
+NAME_frame_shop,Frame Shop
+AD_frame_shop_TITLE,FRAME SHOP
+AD_frame_shop_BODY,"Chassis and fuselage frames, spars, undercarriage and girders."
+NAME_drivetrain_shop,Drivetrain Shop
+AD_drivetrain_shop_TITLE,DRIVETRAIN SHOP
+AD_drivetrain_shop_BODY,"Gears, bearings and a casting become a transmission."
+NAME_engine_works,Engine Works
+AD_engine_works_TITLE,ENGINE WORKS
+AD_engine_works_BODY,Motor-car engines and radial aero engines.
+NAME_chassis_shop,Chassis Shop
+AD_chassis_shop_TITLE,CHASSIS SHOP
+AD_chassis_shop_BODY,"Frame, axles, wheels and gearbox: a rolling chassis."
+NAME_body_shop,Body Shop
+AD_body_shop_TITLE,BODY SHOP
+AD_body_shop_BODY,"Panels, glass, seats and lamps: a motor-car body."
+NAME_airframe_works,Airframe Works
+AD_airframe_works_TITLE,AIRFRAME WORKS
+AD_airframe_works_BODY,"Wings, fuselages, tails and gondolas. Electric only."
+NAME_final_assembly_line,Final Assembly Line
+AD_final_assembly_line_TITLE,FINAL ASSEMBLY LINE
+AD_final_assembly_line_BODY,Where automobiles and motor trucks roll out. Electric only.
+NAME_aircraft_hangar,Aircraft Hangar
+AD_aircraft_hangar_TITLE,AIRCRAFT HANGAR
+AD_aircraft_hangar_BODY,"The aeroplane, assembled and wheeled out. Electric only."
+NAME_waterwheel,Waterwheel
+AD_waterwheel_TITLE,WATERWHEEL
+AD_waterwheel_BODY,Shaft power to whatever stands beside it on the bank.
+NAME_boiler,Boiler
+AD_boiler_TITLE,BOILER
+AD_boiler_BODY,Water and coal make steam for the pipes.
+NAME_steam_pipe,Steam Pipe
+AD_steam_pipe_TITLE,STEAM PIPE
+AD_steam_pipe_BODY,Carries steam and water; nothing else.
+NAME_power_station,Power Station
+AD_power_station_TITLE,POWER STATION
+AD_power_station_BODY,"Steam in, electricity out along the poles."
+NAME_power_pole,Power Pole
+AD_power_pole_TITLE,POWER POLE
+AD_power_pole_BODY,Carries current six yards in every direction.
+NAME_hydro_dam,Hydro Dam
+AD_hydro_dam_TITLE,HYDRO DAM
+AD_hydro_dam_BODY,"Across a river: power without fuel, and a valley under water."
+NAME_road,Road
+AD_road_TITLE,ROAD
+AD_road_BODY,For trucks. Lay it by the yard.
+NAME_truck_depot,Truck Depot
+AD_truck_depot_TITLE,TRUCK DEPOT
+AD_truck_depot_BODY,Loads and unloads belts; trucks run between depots.
+NAME_rail,Rail
+AD_rail_TITLE,RAIL
+AD_rail_BODY,Track by the yard. Three times the price on hills.
+NAME_rail_station,Rail Station
+AD_rail_station_TITLE,RAIL STATION
+AD_rail_station_BODY,Trains run point to point between stations.
+NAME_barge_landing,Barge Landing
+AD_barge_landing_TITLE,BARGE LANDING
+AD_barge_landing_BODY,River shipping between landings: cheapest and slowest.
+NAME_rail_signal,Rail Signal
+AD_rail_signal_TITLE,RAIL SIGNAL
+AD_rail_signal_BODY,"Set on rail. Cuts the track into blocks, one train to a block."
+NAME_motor_truck,Motor Truck
+AD_motor_truck_TITLE,MOTOR TRUCK
+AD_motor_truck_BODY,"Carries 24. Click one depot, then the other; it runs between them."
+NAME_locomotive,Locomotive
+AD_locomotive_TITLE,LOCOMOTIVE
+AD_locomotive_BODY,"Three cars, 120 goods. Click one station, then the other."
+NAME_barge,Barge
+AD_barge_TITLE,RIVER BARGE
+AD_barge_BODY,"Slow and cheap, 160 goods. Click one landing, then the other."
+COL_Haulage,HAULAGE
+MENU_TITLE,THE FRONT OFFICE
+MENU_PAUSED,The presses are stopped. Nothing moves while this office is open.
+MENU_CONTINUE,Back to the works
+MENU_NEW,Found a new company
+MENU_COMPANIES,Companies on the books
+MENU_SETTINGS,Settings
+MENU_QUIT,Close up for the day
+MENU_BACK,Back
+MENU_NAME_LABEL,The company shall be called
+MENU_DIFFICULTY,The times
+MENU_START,Found it
+MENU_NO_COMPANIES,No company on the books yet.
+MENU_COMPANY_ROW,"{0} — {1} · share {2} · {3} · saved {4}"
+MENU_COMPANY,"Playing as {0}. The books are kept every day and when you close up."
+MENU_SCRATCH,"A scratch works: nothing here is saved."
+MENU_RECOVERED,"The latest ledger was damaged; the books were recovered from {0}."
+MENU_MUSIC,Gramophone
+MENU_SFX,The works
+MENU_MUTE,Silence everything
+DIFF_boom_times,Boom Times
+DIFF_steady_trade,Steady Trade
+DIFF_hard_times,Hard Times
+DIFF_boom_times_BLURB,"{0} in the till, {1} of credit at {2} a week. Prices calm, seams rich, few surprises."
+DIFF_steady_trade_BLURB,"{0} in the till, {1} of credit at {2} a week. The trade as it is."
+DIFF_hard_times_BLURB,"{0} in the till, {1} of credit at {2} a week. Prices swing, seams are thin, and the bank is not your friend."
+ACH_PINNED,CLIPPING PINNED — {0}
+ACH_FIRST_POUR,First Pour
+ACH_HORSELESS,Horseless
+ACH_HAULAGE,Haulage
+ACH_BARNSTORMER,Barnstormer
+ACH_LIGHTS_ON,Lights On
+ACH_THE_DAM_HELD,The Dam Held
+ACH_A_CAR_FOR_EVERY_GARAGE,A Car for Every Garage
+ACH_DIVERSIFIED,Diversified
+ACH_DEBT_FREE,Debt-Free
+ACH_CAPTAIN_OF_INDUSTRY,Captain of Industry
+ACH_COMMISSION_1,Commission I
+ACH_COMMISSION_2,Commission II
+ACH_COMMISSION_3,Commission III
+ACH_COMMISSION_4,Commission IV
+ACH_COMMISSION_5,Commission V
+ACH_COMMISSION_6,Commission VI
+ACH_CLOSE_CALL,Close Call
+ACH_OLD_HAND,Old Hand
+COMMISSION_1,Coast-to-Coast Motorcade
+COMMISSION_2,The Carvell Falls Skyscraper
+COMMISSION_3,Air Mail Fleet
+COMMISSION_4,Suspension Bridge over the Gorge
+COMMISSION_5,Zeppelin Columbia
+COMMISSION_6,Transatlantic Airliner (four of them)
+COMMISSION_AGAIN_1,The {0} Coast-to-Coast Motorcade
+COMMISSION_AGAIN_2,The {0} Skyscraper
+COMMISSION_AGAIN_3,The {0} Air Mail Fleet
+COMMISSION_AGAIN_4,The {0} Bridge over the Gorge
+COMMISSION_AGAIN_5,Zeppelin {0}
+COMMISSION_AGAIN_6,The {0} Transatlantic Airliners
+ORDINAL_2,Second
+ORDINAL_3,Third
+ORDINAL_4,Fourth
+ORDINAL_5,Fifth
+ORDINAL_6,Sixth
+ORDINAL_7,Seventh
+ORDINAL_8,Eighth
+ORDINAL_9,Ninth
+ORDINAL_10,Tenth
+ORDINAL_11,Eleventh
+ORDINAL_12,Twelfth
+SHIP_2,Liberty
+SHIP_3,Republic
+SHIP_4,Concord
+SHIP_5,Pioneer
+SHIP_6,Meridian
+SHIP_7,Aurora
+SHIP_8,Sentinel
+SHIP_9,Endeavor
+HEADLINE_COMMISSION_OPEN,THE EXPOSITION CALLS FOR THE {1}
+DECK_COMMISSION_OPEN,"A commission is open at the yard; the works may deliver at market price"
+BODY_COMMISSION_OPEN,"The Exposition has opened a commission: the {0}. Every good delivered to the Exposition Yard is paid at the going rate, and the company that fills the bill is remembered for it."
+HEADLINE_COMMISSION_DONE,{1} — COMMISSION FILLED
+DECK_COMMISSION_DONE,"The works delivers the last of the bill; the company's name goes on the plaque"
+BODY_COMMISSION_DONE,"The last goods for the {0} left the Exposition Yard today. The Courier records the company's standing rising with it, and the Exposition already speaks of the next."
+CLIP_YARD,"EXPOSITION YARD. {0} goods taken, paid at market. Commission {1}: {2}. {3}"
+CLIP_YARD_LINE,{0} {1} of {2}
+CLIP_YARD_NONE,No commission open.
+OVERLAY_COMMISSION,{0}/{1} lines
+CURSOR_PLAN,"{0} · pencilled in for nothing; built when the pencil is down and the till allows"
+CURSOR_BLUEPRINT,"{0} pieces · about {1} · click stamps as plans · R turns · 1–9 saves"
+CURSOR_BLUEPRINT_SELECT,drag over a layout to copy it · 1–9 takes a saved one
+CLIP_PLAN,"PLANNED {0}. Pencilled in for {1}. Built, oldest plan first, from cash on hand whenever planning mode is off. Right-click rubs it out."
+MODE_PLANNING,PLANNING — the pencil is up: plans cost nothing and none are built (P)
+MODE_BLUEPRINT,BLUEPRINT — drag to copy a layout; click to stamp the one in hand (B)
+MODE_OVERLAY,FLOW OVERLAY (F)
+OVERLAY_RATE,{0}/min
+OVERLAY_WANTS,wants {0}
+OVERLAY_FULL,FULL
+OVERLAY_NO_POWER,NO POWER
+OVERLAY_YARD,{0} in · {1} out
+NET_Truck,road
+NET_Train,rail
+NET_Barge,river
+CLIP_ROAD,"ROAD. Trucks run on it between depots; lay it by dragging."
+CLIP_RAIL,"RAIL. Trains run on it between stations. One train to a block; set signals to make more blocks."
+CLIP_SIGNAL,"RAIL SIGNAL. The block beyond is {0}."
+CLIP_SIGNAL_FREE,clear
+CLIP_SIGNAL_HELD,taken by a train
+CLIP_TERMINAL,"{0}. {1} waiting in the yard for a pickup, {2} waiting to leave by belt. {3} received, {4} shipped. {5}"
+CLIP_TERMINAL_NONE,No vehicle calls here.
+CLIP_TERMINAL_CALLS,{0} call here.
+CLIP_TERMINAL_PARKED,{0} parked and idle.
+CLIP_VEHICLE,"{0}. {1} Carrying {2} of {3}. {4}"
+CLIP_VEHICLE_ROUTE,Runs between the {2}s at {0} and {1}.
+CLIP_VEHICLE_NO_ROUTE,"No route: pick it from the classifieds, then click two {0}s."
+VSTATE_Parked,Parked.
+VSTATE_Loading,Loading.
+VSTATE_Moving,Under way.
+VSTATE_Idle,Waiting for a load.
+VSTATE_NoRoute,Stopped: no way through.
+VSTATE_Full,Stopped: the yard is full.
+VSTATE_Signal,Held at a signal.
+CURSOR_ROUTE_FIRST,click the first {0}
+CURSOR_ROUTE_SECOND,now click the other {0} ({1})
+CURSOR_ROUTE_PARKED,now click the other {0} (uses the one parked here)
+CURSOR_NEEDS_TERMINAL,needs a {0}
+CURSOR_NO_ROUTE,no {0} joins those two
+CURSOR_SIGNAL,{0} on this rail
+HEADLINE_FIRST_DEPOT,MOTOR FREIGHT COMES TO CARVELL FALLS
+DECK_FIRST_DEPOT,"A truck depot opens at the works; ore from the far patches by road"
+BODY_FIRST_DEPOT,"The company has opened a truck depot. Goods that arrive by belt wait in its yard for a truck; a truck runs between two depots and what it brings leaves by belt again. The Courier notes that roads are cheap and trucks are not."
+HEADLINE_FIRST_RAIL,RAILROAD REACHES THE WORKS
+DECK_FIRST_RAIL,"Station built; trains to run point to point, one to a block"
+BODY_FIRST_RAIL,"A rail station stands at the works. Trains carry more than any truck and run between two stations. Only one train may hold a stretch of track between signals, so the company will want signals as the line grows."
+HEADLINE_FIRST_BARGE,BARGES ON THE CARVELL
+DECK_FIRST_BARGE,"A landing on the bank; river freight is the cheapest ton the company moves"
+BODY_FIRST_BARGE,"The company has built a barge landing on the river. Barges are slow and carry a great deal; they run between two landings and go wherever the water goes."
+ITEM_limestone,Limestone
+ITEM_sand,Sand
+ITEM_clay,Clay
+ITEM_sulfur,Sulfur
+ITEM_bauxite,Bauxite
+ITEM_timber,Timber
+ITEM_crude_oil,Crude Oil
+ITEM_raw_rubber,Raw Rubber
+ITEM_cotton,Cotton
+ITEM_iron_ingot,Iron Ingot
+ITEM_copper_ingot,Copper Ingot
+ITEM_coke,Coke
+ITEM_steel_ingot,Steel Ingot
+ITEM_aluminum_ingot,Aluminum Ingot
+ITEM_glass,Glass
+ITEM_lumber,Lumber
+ITEM_porcelain,Porcelain
+ITEM_cement,Cement
+ITEM_rubber,Rubber
+ITEM_cloth,Cloth
+ITEM_gasoline,Gasoline
+ITEM_lubricant,Lubricant
+ITEM_tar,Tar
+ITEM_iron_plate,Iron Plate
+ITEM_steel_plate,Steel Plate
+ITEM_copper_sheet,Copper Sheet
+ITEM_aluminum_sheet,Aluminum Sheet
+ITEM_steel_beam,Steel Beam
+ITEM_steel_rod,Steel Rod
+ITEM_steel_wire,Steel Wire
+ITEM_copper_wire,Copper Wire
+ITEM_steel_tube,Steel Tube
+ITEM_aluminum_tube,Aluminum Tube
+ITEM_bolts,Bolts
+ITEM_rivets,Rivets
+ITEM_springs,Springs
+ITEM_gears,Gears
+ITEM_bearings,Bearings
+ITEM_iron_casting,Iron Casting
+ITEM_aluminum_casting,Aluminum Casting
+ITEM_varnish,Varnish
+ITEM_japan_enamel,Japan Enamel
+ITEM_plywood,Plywood
+ITEM_doped_fabric,Doped Fabric
+ITEM_plate_glass,Plate Glass
+ITEM_insulated_wire,Insulated Wire
+ITEM_rubber_hose,Rubber Hose
+ITEM_gasket,Gasket
+ITEM_tire,Tire
+ITEM_engine_block,Engine Block
+ITEM_crankcase,Crankcase
+ITEM_piston,Piston
+ITEM_crankshaft,Crankshaft
+ITEM_axle,Axle
+ITEM_spark_plug,Spark Plug
+ITEM_magneto,Magneto
+ITEM_headlamp,Headlamp
+ITEM_wiring_harness,Wiring Harness
+ITEM_carburetor,Carburetor
+ITEM_gauge,Gauge
+ITEM_steering_gear,Steering Gear
+ITEM_radiator,Radiator
+ITEM_body_panel,Body Panel
+ITEM_transmission,Transmission
+ITEM_wheel,Wheel
+ITEM_seat,Seat
+ITEM_chassis_frame,Chassis Frame
+ITEM_fuselage_frame,Fuselage Frame
+ITEM_wing_spar,Wing Spar
+ITEM_undercarriage,Undercarriage
+ITEM_wing_rib,Wing Rib
+ITEM_propeller,Propeller
+ITEM_instrument_panel,Instrument Panel
+ITEM_car_engine,Car Engine
+ITEM_radial_aero_engine,Radial Aero Engine
+ITEM_rolling_chassis,Rolling Chassis
+ITEM_car_body,Car Body
+ITEM_wing,Wing
+ITEM_fuselage,Fuselage
+ITEM_tail_assembly,Tail Assembly
+ITEM_automobile,Automobile
+ITEM_motor_truck,Motor Truck
+ITEM_aeroplane,Aeroplane
+ITEM_aluminum_girder,Aluminum Girder
+ITEM_gas_cell,Gas Cell
+ITEM_gondola,Gondola
+ITEM_stressed_skin_panel,Stressed-Skin Panel
+STATE_Starved,waiting for goods
+STATE_Working,working
+STATE_Blocked,output backed up
+STATE_Unpowered,fire out
+CLIP_MACHINE,{0}. {1}{2} Holds {3}. {4} waiting to leave. {5}
+CLIP_MACHINE_RUN,"Making {0}, {1} done."
+CLIP_MACHINE_NOFIRE,Electric only; it has no firebox.
+CLIP_MACHINE_ELEC,"Electric only, and no electricity reaches it: set a power pole within six yards, on a grid with a power station or a dam."
+CLIP_FIRE,{0} coal
+CLIP_NOTHING,nothing
+CLIP_MINE,MINE HEAD. Raises {0} from {1} of 4 seams. {2} tons raised; output at {3} of a fresh shaft. Firebox: {4}.
+CLIP_SEAM,"{0} SEAM. Sink a mine head here; the more seams under it, the faster it raises. The seam is at {1} of fresh."
+MASTHEAD_MONEY,CASH {0}  ·  CREDIT {1} OF {2}  ·  SHARE {3}
+NOTICE_BANKERS_WARNING,"BANKER'S WARNING: next week's interest of {0} is beyond your means. Sell, or fold."
+NOTICE_FOLDS_TITLE,FOUNDRY FOLDS
+NOTICE_FOLDS_BODY,CREDITORS SEIZE WORKS. The company missed its payment of {0} and is no more. The Courier's archive remains.
+CURSOR_HELD,"Click a sorting splitter to sort {0} left, or a receiving dock to order it"
+CLIP_DOCK,RECEIVING DOCK. {0} {1} bought so far for {2}. Pick a raw good with Q and click here to order it.
+CLIP_DOCK_ORDER,Buying {0} at {1} each.
+CLIP_DOCK_NONE,Nothing on order.
+EVENT_RUBBER_SHORTAGE,RUBBER SHORTAGE — FREIGHTER LOST OFF HATTERAS
+EVENT_MOTOR_CRAZE,MOTOR CRAZE SWEEPS NATION
+EVENT_STEEL_GLUT,STEEL GLUT ON EASTERN SEABOARD
+EVENT_COPPER_STRIKE,COPPER STRIKE IN MONTANA HILLS
+EVENT_AIR_MAIL,AIR MAIL CONTRACTS ANNOUNCED
+EVENT_BANK_RATE,BANK RATE RAISED
+EVENT_DROUGHT,DROUGHT LOWERS CARVELL RIVER
+EVENT_OIL_GUSHER,OIL GUSHER IN TEXAS
+EVENT_GLASS_DEMAND,GLASS DEMAND SOARS WITH NEW HIGH-RISES
+EVENT_COTTON_TUMBLE,COTTON FUTURES TUMBLE
+PAGE_FRONT,FRONT PAGE
+PAGE_CLASSIFIEDS,CLASSIFIED ADVERTISEMENTS
+PAGE_MARKET,MARKET
+PAGE_TELEGRAMS,TELEGRAM DESK
+PAGE_ARCHIVE,ARCHIVE
+PAPER_HINT,Tab or Esc closes the paper
+PAPER_EDITION,No. {0}  ·  {1}
+PAPER_EXTRA,EXTRA
+PAPER_INSIDE,ALSO IN THIS EDITION
+MARKET_HEAD_GOOD,GOOD
+MARKET_HEAD_SELL,SELLS AT
+MARKET_HEAD_BUY,BUYS AT
+MARKET_HEAD_WEEK,THE WEEK
+MARKET_HEAD_TREND,TREND
+MARKET_SUMMARY,CASH {0}   ·   CREDIT {1} OF {2} AT {3}% THE WEEK   ·   SHARE {4}   ·   NET WORTH {5}
+MARKET_EMPTY,No goods have changed hands yet. The table fills as the works sells and buys.
+TELEGRAM_LINE,NEED {0} {1} BY {2} STOP {3} STOP
+TELEGRAM_OPEN,{0} of {1} delivered · due {2}
+TELEGRAM_FILLED,FILLED
+TELEGRAM_MISSED,MISSED
+TELEGRAM_EMPTY,The wire is quiet. Orders come once the works is known.
+TELEGRAM_FROM_GARVEY,GARVEY HARDWARE
+TELEGRAM_FROM_PENROSE,PENROSE & SONS
+TELEGRAM_FROM_ALBANY_WORKS,THE ALBANY WORKS
+TELEGRAM_FROM_CUTTER_MOTOR,CUTTER MOTOR CO
+TELEGRAM_FROM_HALLORAN,HALLORAN BROS
+TELEGRAM_FROM_STATE_ROAD,STATE ROAD COMMISSION
+ARCHIVE_EMPTY,Nothing has been printed yet.
+AD_CIRCLED,the Courier recommends
+HEADLINE_TUT1,NEW WORKS TO RISE ON CARVELL RIVER
+DECK_TUT1,Young firm takes ground beside the iron seam; townsfolk expect smoke by spring
+BODY_TUT1,"CARVELL FALLS — A new concern has taken the flats east of town, where the ground is thick with iron ore. The company has {0}, a line of credit at the bank, and not one building to its name.\n\nThe Courier's advice: look about first. Hold the middle mouse button or the W, A, S and D keys to move the eye over the ground, and turn the wheel to draw near or stand back. The stippled patch is the iron seam.\n\nThen buy a MINE HEAD from the classified advertisements (Tab opens this paper; the advertisement is ringed in red) and set it down on the seam. The more seams under its four feet, the faster it raises ore. Press R to turn it so its chute faces where the belts will go."
+HEADLINE_TUT2,FIRST ORE HAULED — WHERE TO NEXT?
+DECK_TUT2,Mine head raises its first tons; ore piles up with nowhere to go
+BODY_TUT2,"The new mine head is up and turning, and iron ore is coming out of its chute by the ton. Ore in a heap is worth nothing, so the next purchase is belting.\n\nCANVAS BELTING is five dollars the yard. Pick it from the classifieds, click at the chute and drag a run across the ground; turn corners as you go. Every mine, mill and shop fires on coal: each comes with a bag of thirty lumps in its firebox, which is plenty to begin with. A coal seam lies to the west; give each building a belt of its own for coal, on another side from its ore. Never mix coal into an ore line: a full firebox refuses the lump, and the whole belt stops behind it.\n\nRun the ore to a SMELTER, ringed in red. Ore in on any side; iron ingots out of the chute."
+HEADLINE_TUT3,IRON FROM CARVELL FALLS HITS MARKET
+DECK_TUT3,First ingot poured; freight agents ask when the goods will ship
+BODY_TUT3,"The smelter has poured its first iron ingot, and the ingots are stacking up. A FREIGHT DEPOT, ringed in red, buys anything belted into it at the day's price, and the money is in the till at once.\n\nThe day's prices are printed on the MARKET page of this paper. Every good has a selling price and a buying price, and both move: with the trade of the nation, with the events of the day, and with what you yourself have lately sold."
+HEADLINE_TUT4,MARKET JITTERS: TOO MUCH IRON?
+DECK_TUT4,Buyers grow tired of one thing; the price of iron sags under the flood
+BODY_TUT4,"The freight agents report that iron from Carvell Falls is piling up in the yards, and the price paid for it has fallen. Sell a great deal of any one good and its price sinks; leave it alone and the price climbs back over a day or two.\n\nThe remedy is variety. A PRESS, ringed in red, flattens ingots into IRON PLATE, which fetches more and sells to a fresh set of buyers. Split the ingot line and feed some to a press. Later, the same trick with steel, wire and castings will carry the works up to motorcars."
+HEADLINE_TUT5,BANKER EXTENDS CREDIT TO YOUNG FIRM
+DECK_TUT5,The Carvell Falls Savings Bank opens a line of {0} to the young firm
+BODY_TUT5,"Now that the works is trading, the bank has opened a line of credit to it. The masthead shows it: CASH on hand, CREDIT drawn against the limit, and the SHARE price, which is the score of the game.\n\nAny purchase beyond your cash draws on the line without a word. Cash in the till repays it each night. Every week the bank charges interest on the balance; the rate is printed on the market page.\n\nMind this: if one week the interest cannot be met from cash and what remains of the line, the bank forecloses and the company is finished. The Courier runs a BANKER'S WARNING a week ahead whenever that is in prospect. Do not ignore it."
+HEADLINE_TUT6,TELEGRAM FOR THE FOUNDRY
+DECK_TUT6,Out-of-town firm wires an order; the works is known beyond the county
+BODY_TUT6,"The first telegram has come over the wire: a firm wants iron plate, a set quantity by a set day. Orders are printed on the TELEGRAM DESK page. They are filled by selling the good through any depot before the day named; the price is the market's, the reward is the headline, and a missed order makes a headline of another kind.\n\nTo keep several lines fed, a SPLITTER, ringed in red, takes goods from either side and deals them out even-handed to two belts. A SORTING SPLITTER sends one kind of good left and everything else right: pick the good off a belt with Q and click the splitter to set it.\n\nStand back with the wheel and the belts turn to flow lines, heavier as they fill, and red where they are backed up. Press F for the flow overlay: goods a minute on every line, what each idle machine wants, and FIRE OUT wherever a firebox has gone cold."
+HEADLINE_FIRST_SALE,FIRST IRON SOLD
+DECK_FIRST_SALE,
+BODY_FIRST_SALE,The depot has taken its first delivery of iron from the works. Money in the till.
+HEADLINE_FIRST_STEEL,FIRST STEEL POURED IN CARVELL FALLS
+DECK_FIRST_STEEL,"Open hearth tapped; the town looks for beams, rods and wire to follow"
+BODY_FIRST_STEEL,"The open-hearth furnace at the works was tapped this morning and the first steel ingot rolled out onto the belts. Iron, coke and limestone go in; steel comes out, and from steel comes nearly everything else the catalog sells: plate for the press, rod and wire from the drawing mill, beams from the rolling mill."
+HEADLINE_FIRST_CAR,FOUNDRY'S FIRST MOTORCAR ROLLS OUT
+DECK_FIRST_CAR,"Engine, chassis and body married on the assembly line; crowd gathers at the gate"
+BODY_FIRST_CAR,An automobile built entirely at Carvell Falls left the final assembly line today under its own power. It is the first of what the company hopes will be many.
+HEADLINE_CARS_1000,"1,000 CARS: ""A CAR FOR EVERY GARAGE"""
+DECK_CARS_1000,The thousandth motorcar leaves the works
+BODY_CARS_1000,The works has built its thousandth automobile. Dealers from three states are on the telephone.
+HEADLINE_FIRST_TRUCK,FIRST MOTOR TRUCK LEAVES THE LINE
+DECK_FIRST_TRUCK,"Same engine and chassis as the motorcar, a flat bed where the body would go"
+BODY_FIRST_TRUCK,"The final assembly line turned out a motor truck today. The company says it will haul the works' own goods once the roads are laid; until then it waits in the yard with a price on it."
+HEADLINE_FIRST_PLANE,CARVELL AEROPLANE TAKES WING
+DECK_FIRST_PLANE,Hangar doors open; machine circles the town and lands to cheers
+BODY_FIRST_PLANE,The first aeroplane assembled at the works flew this afternoon. The Courier's reporter counted four circuits of the town.
+HEADLINE_FIRST_WATERWHEEL,WATERWHEEL TURNS ON THE CARVELL
+DECK_FIRST_WATERWHEEL,River power reaches the works
+BODY_FIRST_WATERWHEEL,A waterwheel has been set on the bank. Whatever stands beside it runs on the river and burns no coal.
+HEADLINE_FIRST_BOILER,STEAM RAISED AT THE WORKS
+DECK_FIRST_BOILER,Boiler lit; pipes to carry power where belts of coal once ran
+BODY_FIRST_BOILER,The first boiler was lit today. Steam in pipes reaches every machine on the line and gets twice the work from a lump of coal.
+HEADLINE_ELECTRIFICATION,ELECTRIFICATION REACHES CARVELL FALLS
+DECK_ELECTRIFICATION,Power station hums; poles march across the works
+BODY_ELECTRIFICATION,"Current flows. Machines within reach of a pole run a quarter faster, and the electric shops can at last be set to work."
+HEADLINE_DAM,DAM COMPLETED — VALLEY FLOODS AS PLANNED
+DECK_DAM,Hydro-electric works closed; upstream fields go under
+BODY_DAM,"The dam across the Carvell is closed and the valley above it is filling. Power without fuel, for as long as the river runs."
+HEADLINE_BANKERS_WARNING,BANKER'S WARNING TO THE FOUNDRY
+DECK_BANKERS_WARNING,"Next week's interest beyond the firm's means, says the Savings Bank"
+BODY_BANKERS_WARNING,"The bank advises that the interest due next week cannot be met from cash and credit as they stand. Sell goods, sell buildings, or the works will be seized."
+HEADLINE_FOLDS,FOUNDRY FOLDS — CREDITORS SEIZE WORKS
+DECK_FOLDS,Payment missed; the bank takes possession
+BODY_FOLDS,The company could not meet its weekly interest and the bank has foreclosed. The works stands silent. This is the last edition the Courier will print for it; the archive remains.
+DECK_EVENT_RUBBER_SHORTAGE,Raw rubber dear for a week
+BODY_EVENT_RUBBER_SHORTAGE,A freighter carrying plantation rubber went down off Cape Hatteras. Raw rubber at the receiving docks will cost nearly double for six days.
+DECK_EVENT_MOTOR_CRAZE,Every family wants a car; prices up
+BODY_EVENT_MOTOR_CRAZE,Automobiles fetch forty percent more for the next eight days.
+DECK_EVENT_STEEL_GLUT,"Steel ingot, plate and beam fetch less for five days"
+BODY_EVENT_STEEL_GLUT,Eastern mills have flooded the yards. Steel goods sell at seventy cents on the dollar for five days.
+DECK_EVENT_COPPER_STRIKE,Copper ore cheap at the docks for a week
+BODY_EVENT_COPPER_STRIKE,A new lode in Montana brings copper ore down forty percent for seven days.
+DECK_EVENT_AIR_MAIL,Aeroplanes wanted; the market deepens
+BODY_EVENT_AIR_MAIL,"The Post Office will buy aeroplanes. They fetch half again as much, and twice as many can be sold before the price sags, for ten days."
+DECK_EVENT_BANK_RATE,Interest up half a point for two weeks
+BODY_EVENT_BANK_RATE,The Savings Bank has raised its weekly rate by half a point for a fortnight.
+DECK_EVENT_DROUGHT,Waterwheels and the dam at half power for five days
+BODY_EVENT_DROUGHT,The Carvell runs low. River power is halved for five days.
+DECK_EVENT_OIL_GUSHER,Crude oil cheap at the docks
+BODY_EVENT_OIL_GUSHER,A gusher in Texas has halved the price of crude at the docks for six days.
+DECK_EVENT_GLASS_DEMAND,Glass and plate glass fetch more
+BODY_EVENT_GLASS_DEMAND,New high-rises in the cities want glass. Glass and plate glass fetch thirty percent more for a week.
+DECK_EVENT_COTTON_TUMBLE,Cotton cheap at the docks for four days
+BODY_EVENT_COTTON_TUMBLE,Cotton futures have tumbled. Cotton at the docks costs thirty percent less for four days.
+HEADLINE_TELEGRAM_NEW,WIRE FROM {1}: {2} {0} WANTED
+DECK_TELEGRAM_NEW,"An order for the works, by a set day"
+BODY_TELEGRAM_NEW,{1} has wired for {2} {0}. The order is on the telegram desk; sell the goods through any depot before the day named.
+HEADLINE_TELEGRAM_FILLED,{1} ORDER FILLED — {2} {0} DELIVERED
+DECK_TELEGRAM_FILLED,The works delivers on time
+BODY_TELEGRAM_FILLED,The order from {1} for {2} {0} has been filled. The firm's compliments to the works.
+HEADLINE_TELEGRAM_MISSED,{1} LOOKS ELSEWHERE
+DECK_TELEGRAM_MISSED,Order for {2} {0} not filled by the day named
+BODY_TELEGRAM_MISSED,The order from {1} for {2} {0} went unfilled and the firm has taken its business elsewhere.
+
+PAPER_FLASH,EXTRA  ·  {0}  ·  Tab opens the paper
+CURSOR_PRICE_LAND,{0} + {1} land
+CURSOR_GROUND,Not on the river or in town
+CLIP_RIVER,"THE CARVELL RIVER. Only trestles, waterwheels, pumps, landings and the dam go on the water."
+CLIP_FOREST,WOODLAND. Building here fells it at {0} the tile; logging camps harvest it.
+CLIP_TOWN,CARVELL FALLS. The town's ground; it grows around the works and is not for sale.
+CLIP_HILL,HIGH GROUND. Machines pay a quarter more for land here; rail will cost three times as much.
+CURSOR_NEEDS_BANK,Must stand on the river bank
+CURSOR_NEEDS_RIVER,"Must span the river, three tiles wide or less"
+CURSOR_FLOOD,The lake would drown something; clear the valley first
+SOURCE_None,no power
+SOURCE_Firebox,its own firebox
+SOURCE_Shaft,the waterwheel's shaft
+SOURCE_Steam,the steam mains
+SOURCE_Electric,"electricity, a quarter faster"
+CLIP_MACHINE_SOURCE, Runs on {0}.
+CLIP_WHEEL,WATERWHEEL. {0} kW from the river; {1} kW asked of it by the machines it touches ({2}).
+CLIP_PUMP,WATER PUMP. Draws {0} units of river water a second into the mains it touches.
+CLIP_BOILER,"BOILER. {0}: {1} kW of steam on offer, {2} kW drawn. Firebox: {3} coal. Water for the mains: {4}."
+CLIP_BOILER_LIT,Steam up
+CLIP_BOILER_OUT,Fire out
+CLIP_PIPE,"STEAM MAIN. {0} boilers, {1} pumps, {2} machines on this run: {3} kW on offer, {4} kW drawn ({5})."
+CLIP_PIPE_LOOSE,STEAM MAIN. Joined to nothing yet.
+CLIP_STATION,"POWER STATION. Takes {0} kW of steam and sends {1} kW down the wires. Grid: {2} kW on offer, {3} kW drawn ({4})."
+CLIP_POLE,"POWER POLE. {0} poles on this grid; {1} kW on offer, {2} kW drawn ({3}). Reaches six tiles."
+CLIP_POLE_LOOSE,POWER POLE. No station or dam on this grid.
+CLIP_DAM,"HYDRO DAM. {0} kW into the grid, fuel free, for as long as the river runs. The lake behind it covers {1} tiles."
+CURSOR_NEEDS_FOREST,No wood within three tiles
+CURSOR_NEEDS_OIL,Must stand on an oil seep
+CLIP_CAMP,LOGGING CAMP. {0} trees within reach; {1} timber felled; output at {2} of a full camp. Firebox: {3}.
+CLIP_JACK,PUMP JACK. Nods over {0} of 4 seep tiles; {1} barrels raised; the seep is at {2} of fresh. Firebox: {3}.
+CLIP_OIL,"OIL SEEP. Set a pump jack here; the more seep under it, the more crude. The seep is at {0} of fresh."
+TUT1_SUM_UNKNOWN,a few thousand dollars
+TUT5_SUM_UNKNOWN,credit
+HEADLINE_FIRES_OUT,FIRES OUT AT THE WORKS
+DECK_FIRES_OUT,Fireboxes stand cold for want of coal; the machines have stopped
+BODY_FIRES_OUT,"The coal the works started with has burned away, and a machine with a cold firebox does no work. Every mill, shop and mine head burns coal.\n\nSet a MINE HEAD, ringed in red, on the coal seam west of the works and belt its coal to each building; a SPLITTER shares one belt of coal between two. Coal goes in on any side. Later a waterwheel, a boiler or the electric mains will spare the fireboxes altogether."
+MACHINE_FIREBOX,Firebox: {0} coal.
+STATE_NoElec,no electricity
+OVERLAY_FIRE_OUT,FIRE OUT
+CLIP_DEPOT_SELLING,{0} fetches {1} today.
+CLIP_DEPOT_IDLE,Nothing is on the belts into it.
+ARCHIVE_ROW,No. {0}  ·  {1}  ·  {2}
+NOTICE_FOLDS_HINT,Tab reads the archive  ·  Esc opens the front office: found a new company or open another
+MENU_FIRST_RUN,"A works stands ready on the Carvell. Name the company, choose the times, and found it."
+MENU_COMPANY_FOLDED,{0} has folded; its books and the Courier's archive are kept. Found a new company to trade again.
+MENU_UNREADABLE,"The books of {0} could not be read, so they were left as they are. Open another company or found a new one."
+MENU_NAME_EMPTY,"The company needs a name, in letters or figures."
+MENU_NAME_TAKEN,A company of that name is already on the books. Choose another name.
+CURSOR_RESERVE,"Cannot afford {0}: the bank keeps back the next two weeks' interest"
+CLIP_MACHINE_REFUSES,The belt in has stopped: it will not take {0}.
+CLIP_MACHINE_REFUSES_COAL,"The belt in has stopped behind coal: the firebox is full ({0} lumps) and will not take it. Give coal a belt of its own."
+OVERLAY_REFUSES,WON'T TAKE {0}
+OVERLAY_REFUSES_COAL,FIRE FULL: WON'T TAKE COAL
+SAVE_FAILED,"THE BOOKS COULD NOT BE KEPT — {0}"
